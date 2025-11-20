@@ -1,0 +1,3 @@
+# clean-data-Hotel_Booking-
+This project analyzes hotel booking data using Python, Pandas, Matplotlib, and Seaborn to provide insights into customer behavior and hotel performance. It includes data cleaning, summarizing by months and customer types, and creating elegant, portfolio-ready visualizations: Line Chart (monthly average prices), Pie Chart (cancellation rates), Histogram (price distribution), and Horizontal Bar Chart (customer count by type). A luxurious color palette and professional fonts are used for a polished presentation.
+
